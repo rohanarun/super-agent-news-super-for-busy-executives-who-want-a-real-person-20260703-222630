@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-digital-twin-executives.html)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-open-source-ai-agents)",
+    "[securityaffairs.com](https://securityaffairs.com/guardfall-flaw-hits-open-source-ai-agents.html)",
+    "[techcrunch.com](https://techcrunch.com/2026/06/02/microsoft-launches-scout-openclaw-inspired-personal-assistant/)"
+  ],
+  "design_plan": "rng=42; architecture=reuse_comparison_visuals; AIDA=pass; hero_lines=3; bento_density=grid-auto-flow:dense; competitors_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=pass",
+  "generated_at": "2026-07-03T22:26:36.562136+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for busy executives who want a real personal assistant \u2014 not another chatbot. The page reuses Super\u2019s proven comparison\u2011page visual system, positions Super against Siri, ChatGPT, Gemini, Grok, Folk, and Orchids, and grounds the narrative in current reporting on executive AI assistants and computer\u2011use agents. Emphasis is on Super\u2019s ability to operate real software and reuse a computer\u2011use cache so repeated executive workflows get faster and cheaper over time."
+}
